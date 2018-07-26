@@ -13,7 +13,7 @@ import retrofit2.http.Query;
 
 public class MovieAPI {
 
-    private static final String KEY = "";
+    private static final String KEY = "a7028c1533e36a2a7e36ea6fd8e46bd6";
     private static final String MOVIE_URL = "https://api.themoviedb.org/3/movie/";
     public static final String IMAGE_URL = "http://image.tmdb.org/t/p/w185/";
     public static final String IMAGE_URL_ORIGINAL = "http://image.tmdb.org/t/p/w780/";
